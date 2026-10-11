@@ -1,0 +1,12 @@
+$schema: https://api.gitbook.com/gitbook-docs.yaml
+version: 1
+site:
+  title: SRS & DDS Documentation
+  structure:
+    - type: space
+      key: space-srs-dds-documentation
+      title: SRS & DDS Documentation
+      path: srs-dds-documentation
+      default: true
+      content:
+        directory: ./
